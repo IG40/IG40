@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-igorjesus734@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorjesus734@gmail.com)](mailto:igorjesus734@gmail.com)
 [![Instagram](https://img.shields.io/badge/-ig41_j-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ig41_j/)](https://www.instagram.com/ig41_j/)
 
-<img align="right" height="139" alt="Java in the chest" src="./java.jpg" width="300px"/>
+<img align="right" height="139" alt="Java in the chest" src="./Javascript.jpg" width="300px"/>
 
-- 👩‍💻 Java Developer
+- 👩‍💻 Front-End Developer
 - 🎓 Computer Science Student @ [IFB](https://www.ifb.edu.br/taguatinga)
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
@@ -14,20 +14,18 @@
 <h2 align="left">Techs</h2>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
 </div>
+
+###
 
 <h2 align="left">Stats</h2>
 
