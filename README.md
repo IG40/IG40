@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-igorjesus734@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorjesus734@gmail.com)](mailto:igorjesus734@gmail.com)
 [![Instagram](https://img.shields.io/badge/-ig41_j-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ig41_j/)](https://www.instagram.com/ig41_j/)
 
-<img align="right" height="139" alt="Java in the chest" src="./Javascript.png" width="300px"/>
+<img align="right" height="139" alt="Java in the chest" src="./Javascript.png" width="500px"/>
 
 - 👩‍💻 Front-End Developer
 - 🎓 Computer Science Student @ [IFB](https://www.ifb.edu.br/taguatinga)
