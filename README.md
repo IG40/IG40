@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor--jesus//)](https://www.linkedin.com/in/igor--jesus/)
 [![Gmail Badge](https://img.shields.io/badge/-igorjesus734@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorjesus734@gmail.com)](mailto:igorjesus734@gmail.com)
-[![Instagram](https://img.shields.io/badge/-IG40_j-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/IG40_j/)](https://www.instagram.com/IG40_j/)
+[![Instagram](https://img.shields.io/badge/-IG40_j-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/IG40_j/)](https://www.instagram.com/https_igor03/)
 
 <img align="right" height="160" alt="Java in the chest" src="./meme.jpg" width="240px"/>
 
